@@ -1,0 +1,50 @@
+h1,h2{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 60px;
+    text-align: center;
+    float: center;
+}
+
+button{
+    display: block;
+    padding: auto;
+    margin: auto;
+    float: center;
+}
+
+header{
+    background-image: url(https://cf2.s3.souqcdn.com/item/2019/04/21/52/61/41/20/item_XL_52614120_721832c4767c1.jpg);
+    background-repeat: no-repeat;
+    background-size: 1600 1600px;
+    background-position: center;
+    padding: 100px;
+}
+
+#p1{
+    text-align: center;
+}
+
+#div3{
+    text-align: center;
+    background-color: rgba(238, 242, 111, 0.3);
+} 
+
+h3{
+    text-align: center;
+    color: white;
+    background-color: blue;
+}
+
+footer{
+    display: block;
+}
+
+#p3{
+    text-align: center;
+}
+
+#p2{
+	text-align: center;
+}
+
